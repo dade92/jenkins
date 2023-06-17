@@ -6,4 +6,5 @@ container. In this way the jenkins pipelines can build docker images.
 
 HOW TO RUN
 
-Run using `docker-compose up`
+Run using the bash script run.sh.
+Stop using the bash script stop.sh
